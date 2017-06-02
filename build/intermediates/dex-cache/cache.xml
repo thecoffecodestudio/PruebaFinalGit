@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="E:\Downloads\Facebook-Android\PruebaFinalIntentoDos\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\10.2.6\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d79c575e1d97b0298746a4c032a0c1dc201c2f82">
+        <dex dex="E:\Downloads\Facebook-Android\PruebaFinalIntentoDos\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-10.2.6_40b216c398fc0acbf3f20213e88cc8cf6851ba7e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Downloads\Facebook-Android\PruebaFinalIntentoDos\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="E:\Downloads\Facebook-Android\PruebaFinalIntentoDos\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.3.1_f075c2ebf5827338b80ff586331105583f7e044c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Downloads\Facebook-Android\PruebaFinalIntentoDos\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="E:\Downloads\Facebook-Android\PruebaFinalIntentoDos\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.3.1_fbfa913114397106afc2806d93011e2b50b682c1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\RAFAEL\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="E:\Downloads\Facebook-Android\PruebaFinalIntentoDos\app\build\intermediates\pre-dexed\debug\bolts-tasks-1.4.0_b031119527545797a6cb92cef27ba7e26d1298dd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Downloads\Facebook-Android\PruebaFinalIntentoDos\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="914f5d3e3ace66080e59613708f06d129a222e25">
+        <dex dex="E:\Downloads\Facebook-Android\PruebaFinalIntentoDos\app\build\intermediates\pre-dexed\debug\com.android.support-cardview-v7-25.3.1_2c5a335f200c6368629c986c9f70348bf9396a07.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Downloads\Facebook-Android\PruebaFinalIntentoDos\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\10.2.6\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4d7184a651c5975b49928ce7c76175d491ee7a5e">
+        <dex dex="E:\Downloads\Facebook-Android\PruebaFinalIntentoDos\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-ads-10.2.6_27ef3b1b978c21c9a883b452b6d6c1a489e01ad9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\RAFAEL\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-applinks\1.4.0\8ad21bf21784dacce5f2043afb97218cc377e835\bolts-applinks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8ad21bf21784dacce5f2043afb97218cc377e835">
+        <dex dex="E:\Downloads\Facebook-Android\PruebaFinalIntentoDos\app\build\intermediates\pre-dexed\debug\bolts-applinks-1.4.0_eb9e06c8f775e68f3a69ce61a93e2168cb5006ff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Downloads\Facebook-Android\PruebaFinalIntentoDos\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="E:\Downloads\Facebook-Android\PruebaFinalIntentoDos\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.3.1_e4b211a82d2651fe2138bf8b7349d1e1fc4520b3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Downloads\Facebook-Android\PruebaFinalIntentoDos\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="E:\Downloads\Facebook-Android\PruebaFinalIntentoDos\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.3.1_acec1fa37045e22c1dd8c6566598b8c7ba11bc0e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Downloads\Facebook-Android\PruebaFinalIntentoDos\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="E:\Downloads\Facebook-Android\PruebaFinalIntentoDos\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.3.1_84f1999f2c792da4f801ebabd0568e69d8857924.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Downloads\Facebook-Android\PruebaFinalIntentoDos\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.2.6\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8f83a631abfdb790591a720e0cfb5f41329831c3">
+        <dex dex="E:\Downloads\Facebook-Android\PruebaFinalIntentoDos\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-iid-10.2.6_520499ccbc5989e58334b2360b4698c38935ab23.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Downloads\Facebook-Android\PruebaFinalIntentoDos\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\Downloads\Facebook-Android\PruebaFinalIntentoDos\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.3.1_f194b2f90d85c880e64d5c24ffa96a942207ffe2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Downloads\Facebook-Android\PruebaFinalIntentoDos\app\build\intermediates\exploded-aar\com.android.support\customtabs\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="807751a24cf96566fd8675517c94d8463cf364db">
+        <dex dex="E:\Downloads\Facebook-Android\PruebaFinalIntentoDos\app\build\intermediates\pre-dexed\debug\com.android.support-customtabs-25.3.1_1b406ac60c57c0b7aa1451636cecc5588c2e15d5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Downloads\Facebook-Android\PruebaFinalIntentoDos\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gass\10.2.6\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9b775d7b643397da3ab57e62ae8abb74a9cc9a83">
+        <dex dex="E:\Downloads\Facebook-Android\PruebaFinalIntentoDos\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-gass-10.2.6_1a2d3642c0eb9aef86acbde8df2c4cc048e1aea8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Downloads\Facebook-Android\PruebaFinalIntentoDos\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="E:\Downloads\Facebook-Android\PruebaFinalIntentoDos\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.3.1_494e172a7557f472b76e134f21fb0f3a11e52fa7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Downloads\Facebook-Android\PruebaFinalIntentoDos\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-clearcut\10.2.6\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1172091167cff5873cbcccad4c0e08ec9e3240de">
+        <dex dex="E:\Downloads\Facebook-Android\PruebaFinalIntentoDos\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-clearcut-10.2.6_63ee7052f5074347845b66dd0c516649aba638f5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Downloads\Facebook-Android\PruebaFinalIntentoDos\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\10.2.6\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9024225796c3f11342ef6a4a99439f2f988bafb0">
+        <dex dex="E:\Downloads\Facebook-Android\PruebaFinalIntentoDos\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-ads-lite-10.2.6_1c25beddafb96d23eb7af54400a18eabcdfa6a46.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Downloads\Facebook-Android\PruebaFinalIntentoDos\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\10.2.6\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a534044236cf81b002604643d23e7ca56bd1ee0">
+        <dex dex="E:\Downloads\Facebook-Android\PruebaFinalIntentoDos\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-common-10.2.6_b4374206e7f7687a0089813915bc31c827b606c7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Downloads\Facebook-Android\PruebaFinalIntentoDos\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\10.2.6\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da832806828ba407284c0c4b1d87b8f9ed9f2520">
+        <dex dex="E:\Downloads\Facebook-Android\PruebaFinalIntentoDos\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-impl-10.2.6_549bb4ca4988ebc26c71adce5d1a2dfd56024b53.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Downloads\Facebook-Android\PruebaFinalIntentoDos\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\10.2.6\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="69e74a8b1cbf5b8ee0fc0cca6bab1ac6c45efef8">
+        <dex dex="E:\Downloads\Facebook-Android\PruebaFinalIntentoDos\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tasks-10.2.6_ae02a0e8c060d242569749e016f736c8b3184ea6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Downloads\Facebook-Android\PruebaFinalIntentoDos\app\build\intermediates\exploded-aar\com.facebook.android\facebook-android-sdk\4.23.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4504ae3ec47953f3d0c324dc66996aecfb7fbb5c">
+        <dex dex="E:\Downloads\Facebook-Android\PruebaFinalIntentoDos\app\build\intermediates\pre-dexed\debug\com.facebook.android-facebook-android-sdk-4.23.0_c0057fd3cdcaafd18adbd676457c6275eb1bc57d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Downloads\Facebook-Android\PruebaFinalIntentoDos\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\10.2.6\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="900a290779cdb4eb2e63b6f7806fd9f30ce4f60d">
+        <dex dex="E:\Downloads\Facebook-Android\PruebaFinalIntentoDos\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-10.2.6_92daeb27c7f7ff7db2473c0ffa88361c8fa052f0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Downloads\Facebook-Android\PruebaFinalIntentoDos\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="E:\Downloads\Facebook-Android\PruebaFinalIntentoDos\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.3.1_7ba1d54705b6fd3d65bb427fc55f4d1c73fbe555.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Downloads\Facebook-Android\PruebaFinalIntentoDos\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="E:\Downloads\Facebook-Android\PruebaFinalIntentoDos\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.3.1_6b2da62cd0e02ecb37af6d60f5247cdd5ca6cab7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\android-sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="E:\Downloads\Facebook-Android\PruebaFinalIntentoDos\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_9e3c63bd18c6299a0811febc90ec81686578868a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Downloads\Facebook-Android\PruebaFinalIntentoDos\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\10.2.6\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3f0a85e6000998ac322ddd50750e8cf91601a84b">
+        <dex dex="E:\Downloads\Facebook-Android\PruebaFinalIntentoDos\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-10.2.6_0ce1d0687cd86b466714f3d902c6ff89cf05de7e.jar" />
+    </item>
+
+</items>
